@@ -6,11 +6,7 @@ nurulabsar-git/nurulabsar-git is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:waka-->
-- uses: nurulabsar-git/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.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 }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: true
+
 
 <!--END_SECTION:waka-->
 
