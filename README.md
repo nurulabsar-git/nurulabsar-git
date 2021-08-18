@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--END_SECTION:waka-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nurulabsar-git)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nurulabsar-git)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nurulabsar-git&theme=merko)](https://git.io/streak-stats)
 
 
